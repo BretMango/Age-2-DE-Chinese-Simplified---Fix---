@@ -1,4 +1,4 @@
-【描述搬运自Age of Empires II DE论坛模组页】
+【描述搬运自Age of Empires II DE论坛模组页，有待调整】
 关于此模组
 该模组有助于提高AOE2 DE版本的简体中文本地化质量。它着重于以下方面：
 
